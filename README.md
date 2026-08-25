@@ -1,16 +1,103 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Sonaly+Sifuentes+%F0%9F%91%8B;Frontend+Developer;Angular+%2B+React+%2B+TypeScript;Construyendo+soluciones+web+%E2%9C%A8" alt="Typing SVG" />
+</h1>
 
-<!--
-**Vania-0731/Vania-0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,28&height=120&section=header"/>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonalysifuentes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonalysifuentes@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Tecsup-Egresada-FF5722?style=for-the-badge&logo=google-classroom&logoColor=white)](https://github.com/Vania-0731)
+
+</div>
+
+---
+
+### 👩‍💻 Sobre Mí
+
+- 🎓 **Egresada en Diseño y Desarrollo de Software** en TECSUP (2023 – 2026).
+- 💼 **Desarrolladora de Software** enfocada en Frontend con sólida base en Backend y arquitectura de sistemas ERP.
+- 🚀 Experiencia en análisis de requerimientos, levantamiento de procesos, testing (QA) y despliegues.
+- 📍 Lima, Perú.
+
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+#### **Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### **Backend & Bases de Datos**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### **Metodologías & Herramientas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-009688?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/QA%20Testing-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+---
+
+### 📌 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚨 Warnify</h3>
+      <p>Plataforma para reporte de incidentes ciudadanos en Santa Anita. Cubrió todo el ciclo de vida del software: requerimientos, arquitectura, frontend, backend y QA.</p>
+      <p><b>Stack:</b> React, Django, MySQL</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏢 Sistema ERP Empresarial</h3>
+      <p>Desarrollo de módulos funcionales y optimización de interfaces en Angular, análisis de requerimientos e integración de servicios Backend.</p>
+      <p><b>Stack:</b> Angular, TypeScript, Node.js / Java</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vania-0731&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vania-0731&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vania-0731&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vania-0731/Vania-0731/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vania-0731/Vania-0731/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vania-0731/Vania-0731/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,28&height=80&section=footer"/>
+</p>
