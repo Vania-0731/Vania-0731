@@ -79,14 +79,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vania-0731&show_icons=true&theme=radical&hide_border=true&v=1" alt="Vania Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vania-0731&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Vania-0731/Vania-0731/output/stats.svg" alt="Vania Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/Vania-0731/Vania-0731/output/top-langs.svg" alt="Top Languages" width="35%" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Vania-0731&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Vania-0731/Vania-0731/output/streak-stats.svg" alt="GitHub Streak" />
 </div>
+
 ---
 
 ### 🐍 Contribution Activity
@@ -98,4 +99,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,28&height=80&section=footer"/>
 </p>
-
