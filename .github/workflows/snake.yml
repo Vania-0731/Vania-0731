@@ -16,6 +16,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Prepare output folder
+        run: mkdir -p dist && chmod 777 dist
+
       - name: Generate Snake Files
         uses: Platane/snk@v3
         with:
