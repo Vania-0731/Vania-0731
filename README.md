@@ -79,13 +79,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vania-0731&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vania-0731&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vania-0731&show_icons=true&theme=radical&hide_border=true" alt="Vania Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vania-0731&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vania-0731&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vania-0731&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
